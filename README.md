@@ -1,10 +1,10 @@
 # Concert World!
 
-A music-lover’s app for finding and tracking when and where your favorite bands and artists are performing all over the world
+A music-lover’s app for finding and tracking when and where your favorite bands and artists are performing all over the world.
 
-Query a fully up-to-date world concert schedule for all performing musical artists
+Search a fully up-to-date world concert schedule of all performing musical artists.
 
-You can create and edit your own schedule of upcoming concerts
+Create and edit your own schedule of upcoming concerts.
 
 
 ## Built With

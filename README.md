@@ -6,9 +6,15 @@ Search a fully up-to-date world concert schedule of all performing musical artis
 
 Create and edit your own schedule of upcoming concerts.
 
+# Motivation
+
+As a live music enthusiast, I am always looking for the best site to search complete and up-to-date concert listings. 
+
+Here I tried to make it myself.
+
 # Screenshot
 
-![]()
+![](https://github.com/nkalkstein/Concert-World/blob/master/Screen%20Shot%202018-07-19%20at%2010.18.08%20PM.png)
 
 # Demo Video
 

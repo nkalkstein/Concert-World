@@ -18,6 +18,7 @@ Here I tried to make it myself.
 
 ![](https://github.com/nkalkstein/Concert-World/blob/master/Screen%20Shot%202018-07-19%20at%2010.30.55%20PM.png)
 
+![](https://github.com/nkalkstein/Concert-World/blob/master/Screen%20Shot%202018-07-19%20at%2010.31.48%20PM.png)
 
 # Demo Video
 

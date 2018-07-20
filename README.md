@@ -12,9 +12,12 @@ As a live music enthusiast, I am always looking for the best site to search comp
 
 Here I tried to make it myself.
 
-# Screenshot
+# Screenshots
 
 ![](https://github.com/nkalkstein/Concert-World/blob/master/Screen%20Shot%202018-07-19%20at%2010.18.08%20PM.png)
+
+![](https://github.com/nkalkstein/Concert-World/blob/master/Screen%20Shot%202018-07-19%20at%2010.30.55%20PM.png)
+
 
 # Demo Video
 
